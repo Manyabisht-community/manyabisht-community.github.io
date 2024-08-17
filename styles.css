@@ -1,0 +1,10 @@
+body {font-family: Arial, sans-serif; margin: 0%;}
+.jumbotron {background-color: rgb(23, 180, 23)}
+h2 {color: rgb(246, 10, 10); font-weight: bold;}
+ nav{background-color: #44c7f6;}
+ .col-md-8{background-color:white; flex: 90%;padding: 20px; }
+ .col-md-4{background-color: rgba(230, 223, 223, 0.614);  flex: 10%; padding: 10px;}
+ .row { display: flex;- flex-wrap: wrap;}
+ footer{background-color: #f8f9fa;padding: 1rem;width: 100%;bottom: 0%;}
+ img {width: 600px;}
+ header{background-color: rgb(23,180,23);}
